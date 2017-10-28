@@ -1,0 +1,18 @@
+name: crystgl
+version: 0.1.0
+
+authors:
+  - Caleb Uriah Harrison <calebuharrison@gmail.com>
+
+dependencies:
+  lib_gl:
+    github: calebuharrison/LibGL
+    branch: master
+
+  crystglfw:
+    github: calebuharrison/CrystGLFW
+    branch: master 
+
+crystal: 0.23.1
+
+license: MIT
